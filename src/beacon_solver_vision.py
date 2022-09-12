@@ -1,0 +1,1 @@
+# TODO Move away from sqlite to maybe pandas and cvs
